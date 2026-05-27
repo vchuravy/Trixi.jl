@@ -1,0 +1,5 @@
+[deps]
+AMDGPU = "21141c5a-9bdb-4563-92ae-f87d6854732e"
+ArrayInterface = "4fba245c-0d91-5ea0-9b3e-6abc04ee57a9"
+OrdinaryDiffEqLowStorageRK = "b0944070-b475-4768-8dec-fb6eb410534d"
+Trixi = "a7f1ee26-1774-49b1-8366-f1abc58fbfcb"
